@@ -1,29 +1,7 @@
-# README #
+# mouse-sci-omics
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repository contains the scripts for the analysis of single-cell combinatorial (sci) Hi-C, sci-RNA-seq, and sci-ATAC-seq data related to the article below. Based on trajectory analyses, we show that three distinct nuclear structure states are detected reflecting discrete and profound simultaneous changes not only to the structure of the X chromosomes, but also to that of autosomes during differentiation. Our study reveals that long-range structural changes to chromosomes appear as discrete events, unlike progressive changes in gene expression and chromatin accessibility. 
 
-### What is this repository for? ###
+Giancarlo Bonora, Vijay Ramani, Ritambhara Singh, He Fang, Dana L. Jackson, Sanjay Srivatsan, Ruolan Qiu, Choli Lee, Cole Trapnell, Jay Shendure, Zhijun Duan, Xinxian Deng, William S. Noble, Christine M. Disteche. Single-cell landscape of nuclear configuration and gene expression during stem cell differentiation and X inactivation. Genome Biology. (2021) doi: https://doi.org/10.1101/2020.11.20.390765 
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+All scripts are provided as is without warranty and at the user's own risk. This is not a software package release, but rather the provision of code to facilitate the reproduction our analyses. Future support of these scripts is not guaranteed.
